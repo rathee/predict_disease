@@ -1,2 +1,2 @@
 import sys
-print "hi"
+print "how are you?"
